@@ -42,8 +42,7 @@ Not found
 harry=12299933
   
   
-  
-  #Solution
+#Solution
   
   class Solution{
     public static void main(String []argh){
